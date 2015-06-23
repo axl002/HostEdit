@@ -1,7 +1,7 @@
 # HostEdit
 A program to edit the HOSTS file for windows, purpose is to block websites
 
-HostEdit is a java program that adds URLs to your HOSTS file with 0.0.0.0 string appended to the front of the URL. This will block the added URLs making this an effective method of blocking unwanted websites. This program may require you to disable your antivirus to run as many AV software prevent modification of the HOSTS file. The source code of this program is viewable and it is recommended you compile this program yourself, this way it is 100% safe and trustworthy.
+HostEdit is a java program that adds URLs to your HOSTS file with 0.0.0.0 string appended to the front of the URL. This will block the added URLs making this an effective method of blocking unwanted websites. The URLs are added to the end of your HOSTS file so this program is compatible with HOSTS files that have already been modified. This program may require you to disable your antivirus to run as many AV software prevent modification of the HOSTS file. The source code of this program is viewable and it is recommended you compile this program yourself, this way it is 100% safe and trustworthy.
 
 
 How to edit the path to your HOSTS file:
